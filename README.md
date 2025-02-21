@@ -17,3 +17,9 @@ Esta es una calculadora básica desarrollada en HTML, CSS y JavaScript. Permite 
 2.Abre el archivo index.html en tu navegador.
 
 3.Realiza las operaciones en el campo de entrada.
+
+Mejoras futuras
+
+Añadir validación de entrada para evitar errores adicionales.
+Incorporar más funciones matemáticas avanzadas.
+Añadir una opción para cambiar entre diferentes temas (modo oscuro/claro).
