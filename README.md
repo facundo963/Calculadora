@@ -18,7 +18,7 @@ Esta es una calculadora básica desarrollada en HTML, CSS y JavaScript. Permite 
 
 3.Realiza las operaciones en el campo de entrada.
 
-Mejoras futuras
+## Mejoras futuras
 
 Añadir validación de entrada para evitar errores adicionales.
 Incorporar más funciones matemáticas avanzadas.
